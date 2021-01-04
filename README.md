@@ -8,7 +8,7 @@ Python + Algorithm
 - Practice programming skills and do real-world coding projects.
 
 ## What we've done
-Visit our [GitHub page](https://github.com/bea0091/palgorithm) to see our previous projects!
+Visit our [GitHub page](https://github.com/bea0091/palgorithm/tree/main/FA20_Project) to see our previous projects!
 
 ## Installation
 
