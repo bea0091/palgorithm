@@ -3,9 +3,9 @@
 Python + Algorithm
 
 
-- Pal up with other programmers at De Anza
-- Dig deeper into Python and algorithms beyond the classrooms
-- Practice programming skills and do real-world coding projects
+- Pal up with other programmers at De Anza.
+- Dig deeper into Python and algorithms beyond the classrooms.
+- Practice programming skills and do real-world coding projects.
 
 ## What we've done
 Visit our [GitHub page](https://github.com/bea0091/palgorithm) to see our previous projects!
